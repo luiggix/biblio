@@ -1,0 +1,6 @@
+pyproject.toml
+src/biblio.egg-info/PKG-INFO
+src/biblio.egg-info/SOURCES.txt
+src/biblio.egg-info/dependency_links.txt
+src/biblio.egg-info/requires.txt
+src/biblio.egg-info/top_level.txt
