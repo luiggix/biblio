@@ -1,8 +1,11 @@
 pyproject.toml
+src/biblio/__init__.py
+src/biblio/mesh.py
 src/biblio.egg-info/PKG-INFO
 src/biblio.egg-info/SOURCES.txt
 src/biblio.egg-info/dependency_links.txt
-src/biblio.egg-info/requires.txt
 src/biblio.egg-info/top_level.txt
-src/biblio/xmf6/__init__.py
-src/biblio/xmf6/mesh.py
+src/biblio/../resources/archivo.txt
+src/biblio/../resources/script.py
+src/biblio/mod1/__init__.py
+src/biblio/mod1/suma.py
